@@ -21,7 +21,7 @@ Possible KPIs include (to get you started, but not limited to):
 * Create a dashboard for the retention manager reflecting the KPIs
 * Write a short email to the engagement partner explaining your findings, and include suggestions as to what needs to be changed
 
-## Customer Retention ![Customer Retention 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/77b817e0-dc12-4a2f-adf8-37e1322bcea3)
+## Customer Retention Dashboard ![Customer Retention 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/77b817e0-dc12-4a2f-adf8-37e1322bcea3)
 ![Customer Retention 2](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/54702873-d9c8-4f99-b435-40b2bebcaac6)
 
 
