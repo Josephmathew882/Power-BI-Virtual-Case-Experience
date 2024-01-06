@@ -6,11 +6,11 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 
 Possible KPIs include (to get you started, but not limited to):
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+* Overall customer satisfaction
+* Overall calls answered/abandoned
+* Calls by time
+* Average speed of answer
+* Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## Call Center Analysis ![Call Center Analysis](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/820aa36e-79b5-4fa6-9a70-da046582bdd4)
 
