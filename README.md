@@ -24,6 +24,16 @@ Possible KPIs include (to get you started, but not limited to):
 ## Customer Retention Dashboard ![Customer Retention 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/77b817e0-dc12-4a2f-adf8-37e1322bcea3)
 ![Customer Retention 2](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/54702873-d9c8-4f99-b435-40b2bebcaac6)
 
+# Task - 3
+## Diversity and Inclusion
+
+* Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+* Write what you think some root causes of their slow progress might be
+
+## Diversity and Inclusion Dashboard ![Diversity and Inclusion 1](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/798f636b-0ab3-4022-bd53-b6bf434a5def)
+![Diversity and Inclusion 2](https://github.com/Josephmathew882/Power-BI-Virtual-Case-Experience/assets/151965486/b133fc83-1703-4fd2-91de-185250528da7)
+
+
 
 
 
